@@ -29,7 +29,7 @@ The parties enter the Agreement intending to be completely independent of each o
 
 ## Governing jurisdiction
 
-The governing law of the Agreement will be Victoria, Australia, and the parties agree that this state will be the exclusive jurisdiction for any proceedings under the Agreement.
+The governing law of the Agreement will be Queensland, Australia, and the parties agree that this state will be the exclusive jurisdiction for any proceedings under the Agreement.
 
 ## Boilerplate and Interpretation
 
