@@ -52,8 +52,7 @@ People need to know how the service provider collects personal information. **Yo
 
 - People actively _give_ the service provider their personal information. For instance, a person might email a service provider. The service provider will then store that person’s email address.
 
-Or;
-
+Or:
 - You automatically collect information. This is usually a function of your website or computer program. For example, Dilruk creates a profile on Sasha’s website, and Sasha’s site automatically sends the information to a database.
 
 ### Provider collects Personal Information directly.
@@ -66,11 +65,11 @@ Provider collects Personal Information directly when an Individual:
 
 **Optional Topic**
 
-This topic explains [who third parties are](https://github.com/lawpatch/dictionary/blob/master/third_party.md) and how the provider collects their information. **If the provider doesn’t collect information from third parties, you can remove this topic.**
+This topic explains how the provider collects people’s information from [third parties](https://github.com/lawpatch/dictionary/blob/master/third_party.md). **If the provider doesn’t collect information from third parties, you can remove this topic.**
 
-Here’s an example of how this topic works. When Dilruk logs into his favourite news site, he sees a "sign in with Facebook" button. Dilruk clicks that button and Facebook receives information about him via his activities on the news site.
+Here’s an example of how this topic works. Sasha runs a news site. When Dilruk logs into Sasha’s news site, Dilruk sees a "sign in with Facebook" button. Dilruk clicks that button and the news site receives information about him from Facebook. In her privacy policy, Sasha should include Facebook as third party that her news site collects personal information from.
 
-Essentially, this topic covers situations in which the provider receives information about individuals from other sources (like the news site).
+Essentially, this topic covers situations in which the provider receives information about individuals from other sources (like Facebook).
 
 ### Provider collects some Personal Information from third parties.
 
@@ -86,7 +85,7 @@ Sometimes, the provider will sell services to a second organisation. That second
 
 For instance, Dilruk is a website host. He sells business technology to a furniture company, "Banana Lounges". "Banana Lounges" use that technology to collect personal information about their employee, Sasha.
 
-In this situation, the law says that both Dilruk and "Banana Lounges" are collecting personal information from Sasha. That means both Dilruk and "Banana Lounges" them need a privacy policy. **If this kind of situation doesn’t apply to the provider’s services, remove this topic.**
+In this situation, the law says that both Dilruk and "Banana Lounges" are collecting personal information from Sasha. Dilruk’s privacy policy needs to explain this. **If the provider is like Dilruk in this situation, use this topic.If this kind of situation doesn’t apply to the provider’s services, remove this topic.**
 
 ### Organisations use Provider’s Services to collect Personal Information.
 
@@ -112,20 +111,20 @@ Using processes described in this Policy, Provider collects the following catego
 
 Really strict rules apply to sensitive information, **so it’s very important that you include this topic if you collect sensitive information**.
 
-Sensitive information includes things like:
-- political beliefs,
-- race,
-- religious beliefs,
+In privacy law, sensitive information includes things like:
+- political opinions;
+- ethnicity;
+- religious beliefs;
 - sexual preference,
-- criminal records,
+- criminal records;
+- health records or health information,
 
-And anything else that might be considered really personal.
+and other kinds of [very personal or delicate information](https://www.oaic.gov.au/agencies-and-organisations/app-guidelines/chapter-b-key-concepts# sensitive-information).
 
 You will need to choose from 2 options to include in your privacy policy if your are collecting sensitive information:
 - Choose the first option if the provider actively seeks out sensitive information. For instance, if you ask about somebody’s medical history as part of your business.
 
-Or;
-
+Or:
 - Choose the second option if the provider doesn’t actively seek out sensitive information but does provide a way to store or publish it if individuals want to.
 
 ### Provider collects certain sensitive information actively.
@@ -198,8 +197,9 @@ For more information on when Provider shares Personal Information, see below.
 
 **Optional Topic**
 
-Include this topic in your privacy policy if:
-- People are allowed to store, publish or process personal information through the provider’s service – with the provider asking them to do so. (For example, if people can make comments on an online forum established by the provider.)
+Include this topic in your privacy policy if people are allowed to store, publish or process personal information through the provider’s service.
+
+For example, Dilruk runs a fan page devoted to the character, Wolverine. The page has a forum where fans can post comments. In this situation, Dilruk would need to include this topic.
 
 ### Some handling of Personal Information happens naturally through the use of the Services.
 
@@ -223,11 +223,11 @@ The Service’s purpose is also to allow Provider and its Organisations to analy
 
 **Optional Topic**
 
-Include this topic in your privacy policy if: the provider shares personal information with third parties.
+Include this topic in your privacy policy if: the provider shares personal information with third parties. Sharing or ‘disclosure’ occurs whenever the provider makes personal information accessible or visible to other people, without being in control of how those people use it.
 
 For example, Coles supermarkets sends the data from customers who use Flybuys cards to other companies such as Kmart, Bunnings and Officeworks.
 
-If the provider shares personal information to a third party, you need to specify who the third parties are and the reason(s) and why the provider is sharing this information to third parties.
+If the provider shares personal information with a third party, you need to specify who the third parties are and the reason(s) and why the provider is sharing this information.
 
 ### Provider discloses certain Personal Information.
 
@@ -260,8 +260,7 @@ For information on disclosures to overseas recipients, see below.
 Include this topic in your privacy policy if:
 - The provider discloses personal information to people overseas. For example, Sasha might need to contact her IT contractor in Beijing, China. That might involve disclosing a client’s personal information to people in China in order to fix a problem.
 
-Or;
-
+Or:
 - Where the provider uses the services of a third party to process or store data. This might be through the use of a server in another county, for instance. In order to lower his costs, Dilruk uses a server located in the Philippines to store his emails.
 
 If the provider deals with people overseas, they should set up a contract to make them comply with Australian law. Specifically, you want overseas partners to abide by the Australian Privacy Principles. It’s a good idea to have the same legal protections for your data at home and abroad.
@@ -269,8 +268,7 @@ If the provider deals with people overseas, they should set up a contract to mak
 There are 2 options you will need to choose from when including this topic in your privacy policy:
 - Choose the first option below if the provider has not ensured compliance with Australian law from overseas partners.
 
-Or;
-
+Or:
 - Choose the second option if the provider _has_ ensured compliance with Australian law from its overseas partners.
 
 ### Provider discloses Personal Information overseas and relies on Individuals’ consent.
@@ -296,8 +294,7 @@ If Individuals consent to such transfer, Provider will not be accountable for ov
 People are allowed to access their personal information, or to ask to change that information. You’ll need to choose one of the following options:
 - Choose the first option if users have the ability to change "profile" information, as well as request changes.
 
-Or;
-
+Or:
 - Choose the second option if people have to contact the provider in order to access or change their personal information.
 
 ### Individuals can change Personal Information Provider holds or ask us to change it.
@@ -329,8 +326,7 @@ Provider reserves the right to refuse access or correction where there are reaso
 The provider must have a procedure for dealing with complaints. Information about this procedure must be in your privacy policy. You will need to choose one of the following options:
 - Choose the first option for a basic complaints procedure. In this option, the provider will receive complaints and have a certain amount of time to reply.
 
-Or;
-
+Or:
 - Choose the second option only if there is a "binding industry privacy code". If you are unsure if your industry is subject to a privacy code – check here: [http://www.oaic.gov.au/privacy/applying-privacy-law/privacy-registers/privacy-codes/](http://www.oaic.gov.au/privacy/applying-privacy-law/privacy-registers/privacy-codes/)
 
 ### Provider has a complaints procedure.
@@ -387,7 +383,7 @@ means {{services}}.
 
 #### direct collection
 
-- contacts Provider using things like telephone, fax or email;
+- contacts Provider by telephone, fax, email or another from of communication;
 - gives Provider his or her information in person on a paper form;
 - sends the Provider a message through SMS or a third party app;
 - other ways Provider collects information directly;
@@ -464,7 +460,7 @@ Delete any sections that don’t apply to you and add other kinds of information
 - (**Provider Devices**) devices operated by employees of Provider’s business; and
 - (**Paper Files**) printed paper and [third party] archival storage services.
 
-`Guidance` Delete anything that doesn’t apply to the provider’s business, and edit where required.
+`Guidance` Delete anything that doesn’t apply to the provider’s business, and edit where required. It may also be helpful if you name specific storage service providers you use.
 
 #### security measures
 
@@ -490,7 +486,7 @@ If the provider is dealing with **very** sensitive information, be sure to menti
 - provide secure access to the Services; and
 - [*].
 
-`Guidance` When the provider intentionally collects information, how does the provider use it? What are the reasons for collecting it? Here, you will need to list all the possible ways that the provider will utilise data. (Make sure to delete any of the descriptions that don’t apply).
+`Guidance` When the provider intentionally collects information, how does the provider use it? What are the reasons for collecting it? (Make sure to delete any of the descriptions that don’t apply).
 
 #### service purpose
 
@@ -506,7 +502,7 @@ allow Individuals and Provider to enter, manage, communicate and publish informa
 - showing usernames and contact details on forums, comments, messages and correspondence; and
 - facilitating the sharing of information about sales, inquiries and payments.
 
-`Guidance` Describe how the provider discloses personal information. This occurs whenever the provider makes personal information accessible or visible to other people, without being in control of how those people use it. It is important to be thorough in this section. If there is any particular person or business the provider discloses to regularly, you should include their details here. You should also provide the URL/link to their privacy policy. Delete any items in this list that do not apply to the provider’s business and add anything else you consider to be important.
+`Guidance` Describe how the provider shares personal information. It is important to be thorough in this section. If there is any particular person or business the provider discloses to regularly, you should include their details here. You should also provide the URL/link to their privacy policy. Delete any items in this list that do not apply to the provider’s business and add anything else you consider to be important.
 
 #### third parties with access
 
@@ -555,8 +551,20 @@ privacy@providername.com
 
 [*]
 
-`Guidance` Describe the organisations that collect information using the provider’s services or platform. You can describe them in general, or you can provide names and URLs. If the provider provides a service that allows organisations to conduct surveys, for example, you should describe them in this definition.
+`Guidance` Describe the organisations that collect information using the provider’s services or platform. You can describe them in general, or you can provide names and URLs. If the provider provides a service that allows organisations to conduct surveys, for example, you should describe those organisations.
 
 #### provider
 
 [your business name]
+
+#### services
+
+[your services]
+
+`Guidance` Give a short description of the services the provider provides.
+
+#### service subject
+
+[*]
+
+`Guidance` Describe what the information generally relates to.
